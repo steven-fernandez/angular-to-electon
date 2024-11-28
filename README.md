@@ -143,7 +143,3 @@ npm run electron:package -- --linux
 ## License
 
 MIT
-
-## Support
-
-For issues and feature requests, please [open an issue](https://github.com/yourusername/angular-to-electron/issues)
